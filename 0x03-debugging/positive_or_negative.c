@@ -5,7 +5,6 @@
  * @i: checked number
  * Return: always 0
  */
-
 void positive_or_negative(int i)
 {
 
